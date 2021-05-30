@@ -41,7 +41,10 @@ I've worked with over 100 clients globally on engineering and implementing secur
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 22 May, 2021 - 29 May, 2021
+
+Markdown     50 mins         ██████████████████▓░░░░░░   75.33 % 
+Other        16 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.67 % 
 ```
 <!--END_SECTION:waka-->
 
