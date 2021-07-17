@@ -41,11 +41,11 @@ I've worked with over 100 clients globally on engineering and implementing secur
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 July, 2021 - 15 July, 2021
+Week: 10 July, 2021 - 16 July, 2021
 
-Vue.js       6 hrs 56 mins   ████████████████████░░░░░   80.12 % 
-JavaScript   1 hr 34 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.21 % 
-CSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Vue.js       6 hrs 25 mins   ███████████████████▓░░░░░   79.31 % 
+JavaScript   1 hr 31 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.84 % 
+CSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 ```
 <!--END_SECTION:waka-->
 
