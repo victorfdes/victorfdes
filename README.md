@@ -41,7 +41,7 @@ I've worked with over 100 clients globally on engineering and implementing secur
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 October, 2021 - 22 October, 2021
+Week: 17 October, 2021 - 23 October, 2021
 
 TypeScript   13 hrs 54 mins  ██████████████████████░░░   87.63 % 
 SCSS         1 hr 43 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
