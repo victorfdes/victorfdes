@@ -41,10 +41,10 @@ I've worked with over 100 clients globally on engineering and implementing secur
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 January, 2022 - 12 January, 2022
+Week: 07 January, 2022 - 13 January, 2022
 
-JavaScript   3 hrs 11 mins   ██████████████████▒░░░░░░   73.45 % 
-TypeScript   1 hr 7 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.95 % 
+JavaScript   1 hr 35 mins    █████████████████████▒░░░   85.10 % 
+TypeScript   16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 % 
 ```
 <!--END_SECTION:waka-->
 
