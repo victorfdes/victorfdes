@@ -42,14 +42,14 @@ I've worked with over 100 clients globally on engineering and implementing secur
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 April 2022 - To: 02 May 2022
+From: 26 April 2022 - To: 03 May 2022
 
-TypeScript   9 hrs 23 mins   ████████████████▓░░░░░░░░   66.58 %
-Vue.js       2 hrs 28 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.54 %
-JavaScript   1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
-SCSS         32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-Python       21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+TypeScript   9 hrs 25 mins   █████████████░░░░░░░░░░░░   51.63 %
+Vue.js       4 hrs 43 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.85 %
+JavaScript   2 hrs 58 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
+SCSS         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Python       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
