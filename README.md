@@ -42,7 +42,7 @@ I've worked with over 100 clients globally on engineering and implementing secur
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 October 2022 - To: 08 October 2022
+From: 02 October 2022 - To: 09 October 2022
 
 Blade Template             2 hrs 38 mins   ████████████▓░░░░░░░░░░░░   50.37 %
 TypeScript                 1 hr 21 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.76 %
