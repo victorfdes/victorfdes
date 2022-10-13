@@ -42,14 +42,14 @@ I've worked with over 100 clients globally on engineering and implementing secur
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 October 2022 - To: 11 October 2022
+From: 05 October 2022 - To: 12 October 2022
 
-Blade Template             2 hrs 38 mins   ███████████░░░░░░░░░░░░░░   43.60 %
-TypeScript                 2 hrs 23 mins   ██████████░░░░░░░░░░░░░░░   39.58 %
-Bash                       32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-JavaScript                 21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-SCSS                       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-PHP                        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+TypeScript       2 hrs 23 mins   ███████████▓░░░░░░░░░░░░░   46.78 %
+Blade Template   1 hr 59 mins    █████████▓░░░░░░░░░░░░░░░   38.77 %
+JavaScript       21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+Bash             17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+SCSS             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
