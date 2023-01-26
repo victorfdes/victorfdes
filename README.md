@@ -1,4 +1,4 @@
-![](https://pbs.twimg.com/profile_banners/548337911/1498146991/1500x500)
+![](https://cdn.victor-fernandes.com/uploads/2019/06/victor-front.jpg)
 
 ### Hello 👋
 
