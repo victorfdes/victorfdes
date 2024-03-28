@@ -42,10 +42,9 @@ I've worked with over 100 clients globally on engineering and implementing secur
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2024 - To: 26 March 2024
+From: 20 March 2024 - To: 27 March 2024
 
-TypeScript   5 hrs 4 mins    ████████████████████████░   95.49 %
-Other        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+TypeScript   54 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
