@@ -42,13 +42,13 @@ I've worked with over 100 clients globally on engineering and implementing secur
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2024 - To: 13 April 2024
+From: 07 April 2024 - To: 14 April 2024
 
-TypeScript   26 hrs 55 mins  ███████████████████████▓░   95.26 %
-SCSS         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-YAML         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-JavaScript   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+TypeScript   20 hrs 54 mins  ███████████████████████▓░   94.53 %
+SCSS         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+YAML         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Other        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
