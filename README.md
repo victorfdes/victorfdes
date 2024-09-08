@@ -42,11 +42,11 @@ I've worked with over 100 clients globally on engineering and implementing secur
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2024 - To: 06 September 2024
+From: 31 August 2024 - To: 07 September 2024
 
-Vue.js       29 hrs 31 mins  ██████████████████▓░░░░░░   74.57 %
-JavaScript   7 hrs 21 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
-JSON         1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Vue.js       30 hrs 34 mins  ███████████████████▒░░░░░   77.38 %
+JavaScript   6 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
+JSON         1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
 Bash         33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 TypeScript   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
