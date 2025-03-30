@@ -42,13 +42,13 @@ I've worked with over 100 clients globally on engineering and implementing secur
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 March 2025 - To: 28 March 2025
+From: 22 March 2025 - To: 29 March 2025
 
-Vue.js       25 hrs 30 mins  █████████████████████▓░░░   86.16 %
-PHP          1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
-JavaScript   1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-Other        1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Vue.js           24 hrs 13 mins  ██████████████████████░░░   88.53 %
+PHP              1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Other            1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+JavaScript       52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Bash             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
