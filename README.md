@@ -9,7 +9,7 @@
   <img align="left" alt="Victor's LinkedIn" height="22" src="https://raw.githubusercontent.com/victorfdes/victorfdes/main/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=victorfdes.victorfdes)
+[![wakatime](https://wakatime.com/badge/user/b6c7f145-35fd-4266-89d0-0733ecb191c8.svg)](https://wakatime.com/@b6c7f145-35fd-4266-89d0-0733ecb191c8)
 
 <br>
 
