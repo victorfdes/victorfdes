@@ -42,13 +42,13 @@ I've worked with over 100 clients globally on engineering and implementing secur
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 June 2025 - To: 02 July 2025
+From: 26 June 2025 - To: 03 July 2025
 
-TypeScript   5 hrs 44 mins   █████████████████████░░░░   83.35 %
-JSON         56 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-SCSS         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+TypeScript   7 hrs 4 mins    ████████████████████▓░░░░   82.27 %
+JSON         1 hr 5 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
+Other        20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+SCSS         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
