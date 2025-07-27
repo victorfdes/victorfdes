@@ -42,7 +42,7 @@ I've worked with over 100 clients globally on engineering and implementing secur
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 July 2025 - To: 25 July 2025
+From: 19 July 2025 - To: 26 July 2025
 
 TypeScript   23 hrs 21 mins  ██████████████████████░░░   87.75 %
 SCSS         1 hr 51 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
