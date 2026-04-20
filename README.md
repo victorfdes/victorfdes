@@ -114,13 +114,13 @@ If you're hiring, building, or scaling a product and think I could help:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2026 - To: 18 April 2026
+From: 12 April 2026 - To: 19 April 2026
 
-TypeScript   12 hrs 38 mins        ██████████████████▓░░░░░░   74.81 %
-CSS          1 hr 30 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-Markdown     54 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-Other        30 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-JSON         27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+TypeScript   11 hrs 14 mins        █████████████████▒░░░░░░░   69.37 %
+CSS          1 hr 31 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
+JSON         1 hr 1 min            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+Markdown     59 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+Other        36 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 ```
 
 <!--END_SECTION:waka-->
