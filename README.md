@@ -4,19 +4,13 @@
 
 **Senior Full-Stack Software Engineer focused on performant frontends, scalable product systems, and AI-assisted production workflows.**
 
-I’ve spent **12+ years** building secure, reliable, and high-performance web applications across product companies, client work, and open-source. My work spans **real-time collaboration, analytics, onboarding systems, SDKs, dashboards, and AI-enabled product experiences**.
+## ⚡ Quick Stats
 
-I’ve contributed to products and systems at **Upwork, Airbase, CleverTap, and Media.net** — with a strong bias for **speed, maintainability, accessibility, and shipping useful software at scale**.
+🚀 Early Start: Landed my first web development contract at age 16.
 
-<p>
-  <a href="https://victor-fernandes.com/">Website</a> •
-  <a href="https://victor-fernandes.com/resume/">Resume</a> •
-  <a href="https://victor-fernandes.com/contact/">Contact</a> •
-  <a href="https://www.linkedin.com/in/vicfdes/">LinkedIn</a> •
-  <a href="https://twitter.com/vfdes">Twitter</a>
-</p>
+🌍 Global Impact: Successfully delivered over 120+ contracts for clients worldwide.
 
-[![wakatime](https://wakatime.com/badge/user/b6c7f145-35fd-4266-89d0-0733ecb191c8.svg)](https://wakatime.com/@b6c7f145-35fd-4266-89d0-0733ecb191c8)
+👨‍💻 Frontend Veteran: 12+ years of experience engineering high-performance user interfaces.
 
 ---
 
@@ -47,69 +41,78 @@ I’ve contributed to products and systems at **Upwork, Airbase, CleverTap, and 
 ## Core strengths
 
 ### Frontend
-React · Next.js · Vue · Nuxt · Svelte · SvelteKit · Angular · Astro · Remix
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-%23002E3B.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=%2300C58E)
+![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-%23000000.svg?style=for-the-badge&logo=remix&logoColor=white)
 
 ### TypeScript / JavaScript
-TypeScript · JavaScript · Node.js · ESNext · tRPC · Zod
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ESNext](https://img.shields.io/badge/ESNext-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330)
+![tRPC](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=trpc&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-%233E67B1.svg?style=for-the-badge&logo=zod&logoColor=white)
 
 ### Tooling & DX
-Vite · Bun · pnpm · Turborepo · Webpack · Vitest · Playwright · TanStack Query
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-%23F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-%23EF4444.svg?style=for-the-badge&logo=turborepo&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=%231C78C0)
+![Vitest](https://img.shields.io/badge/Vitest-%236E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
 
 ### Backend & Data
-Node.js · Fastify · NestJS · Hono · REST · GraphQL · Supabase · PostgreSQL · MySQL · MongoDB · Redis · Prisma · Drizzle
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-%23E36002.svg?style=for-the-badge&logo=hono&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-%2300599C.svg?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-%23C5F74F.svg?style=for-the-badge&logo=drizzle&logoColor=black)
 
 ### UI / Product Engineering
-Tailwind CSS · Sass · Framer Motion · GSAP · Design Systems · Accessibility · Performance Optimization
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)
+![Design Systems](https://img.shields.io/badge/Design_Systems-%23FF4785.svg?style=for-the-badge&logo=storybook&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Accessibility-%23005A9C.svg?style=for-the-badge&logo=w3c&logoColor=white)
+![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-%234285F4.svg?style=for-the-badge&logo=lighthouse&logoColor=white)
+
+### AI Tools & Copilots
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge)
+![Windsurf](https://img.shields.io/badge/Windsurf-%2300C3FF.svg?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-%23000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+
+### PaaS
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%2334b27b.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
-## How I work
+## Live Coding activity:
 
-I care about writing software that is:
-
-- **Fast** for users
-- **Understandable** for teams
-- **Reliable** in production
-- **Accessible** by default
-- **Easy to extend** as products grow
-
-I also use AI tools pragmatically: not as a replacement for engineering judgment, but as a force multiplier for architecture, implementation speed, code review, and delivery quality.
-
----
-
-## Interested in
-
-- Senior / Staff-leaning frontend and full-stack roles
-- Founding or early engineering opportunities
-- Product teams that care about performance, craft, and speed
-- Roles involving developer experience, design systems, or AI-enabled workflows
-
----
-
-## Let’s connect
-
-If you're hiring, building, or scaling a product and think I could help:
-
-- 📫 **Contact:** https://victor-fernandes.com/contact/
-- 📝 **Resume:** https://victor-fernandes.com/resume/
-- 🌐 **Website:** https://victor-fernandes.com/
-- 💼 **LinkedIn:** https://www.linkedin.com/in/vicfdes/
-
----
-
-## Languages and tools
-
-<code><img height="40" src="https://raw.githubusercontent.com/victorfdes/victorfdes/main/assets/react.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/victorfdes/victorfdes/main/assets/vue.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/victorfdes/victorfdes/main/assets/angular.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/victorfdes/victorfdes/main/assets/node.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/victorfdes/victorfdes/main/assets/sass.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/victorfdes/victorfdes/main/assets/docker.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/victorfdes/victorfdes/main/assets/mysql.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/victorfdes/victorfdes/main/assets/postgre.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/victorfdes/victorfdes/main/assets/mongo.svg"></code>
-
-📊 **Time spent this week:**
+[![wakatime](https://wakatime.com/badge/user/b6c7f145-35fd-4266-89d0-0733ecb191c8.svg?style=for-the-badge)](https://wakatime.com/@b6c7f145-35fd-4266-89d0-0733ecb191c8)
 
 <!--START_SECTION:waka-->
 
