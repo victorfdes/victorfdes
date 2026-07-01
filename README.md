@@ -117,13 +117,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 June 2026 - To: 29 June 2026
+From: 23 June 2026 - To: 30 June 2026
 
-Markdown      3 hrs 55 mins         ██████████░░░░░░░░░░░░░░░   39.36 %
-Astro         2 hrs 56 mins         ███████▒░░░░░░░░░░░░░░░░░   29.40 %
-TypeScript    1 hr 27 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
-JavaScript    50 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-Git           12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Markdown      3 hrs 24 mins         █████████▒░░░░░░░░░░░░░░░   37.46 %
+Astro         2 hrs 48 mins         ███████▓░░░░░░░░░░░░░░░░░   30.85 %
+TypeScript    1 hr 23 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
+JavaScript    38 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+Git           12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->
